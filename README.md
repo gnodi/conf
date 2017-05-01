@@ -1,5 +1,7 @@
 # @gnodi/conf
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/gnodi/conf.svg)](https://greenkeeper.io/)
+
 [Node.js]  Retrieve and check your gnodi conf in one call!
 
 [![Build][build-image]][build-url]
