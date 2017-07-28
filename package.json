@@ -15,7 +15,7 @@
   "devDependencies": {
     "@gnodi/eslint-config": "^0.2.0",
     "coveralls": "^2.11.15",
-    "jasmine": "^2.5.2",
+    "jasmine": "2.6.0",
     "nyc": "^10.1.2"
   },
   "license": "MIT",
