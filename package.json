@@ -10,7 +10,7 @@
     "conf"
   ],
   "dependencies": {
-    "ajv": "^5.0.1"
+    "ajv": "^6.9.2"
   },
   "devDependencies": {
     "@gnodi/eslint-config": "^0.2.0",
